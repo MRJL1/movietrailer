@@ -16,8 +16,6 @@ python 2.7 is needed to run program.
 
 # How to Execute Project
 
-<li>Step 1: Clone repository to your desktop. 
-Step 2: Open Fresh_totmatoes.py on Idle
-step 3: Run Module by Pressing F5</li>
-
-
+1. Clone repository to your desktop. 
+2. Open Fresh_totmatoes.py on Idle
+3. Run Module by Pressing F5</li>
