@@ -17,7 +17,7 @@ batman_begins = media.Movie(
 wonder_woman = media.Movie(
     "Wonder Woman",
     "A woman discovers that she is a goddess",
-    "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg"  # NOQA, 
+    "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg", # NOQA
     "https://www.youtube.com/watch?v=VSB4wGIdDwo")
 #thor movie: movie title, storyline, poster image and movie trailer
 thor = media.Movie(
