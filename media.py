@@ -1,5 +1,5 @@
 import webbrowser
-class Movie()
+class Movie():
     """ This class is made to store detailed information regarding movies."""
 
     def __init__(self, movie_title, movie_storyline, poster_image,
